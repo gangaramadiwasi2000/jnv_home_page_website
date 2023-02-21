@@ -1,0 +1,43 @@
+body
+{
+    background-color:aliceblue;
+}
+/*header css*/
+li :hover
+{
+    border-radius: 5px;
+    background-color:white;
+    color:blue;
+    border-color:cornflowerblue;
+}
+#ram:hover{
+    color:blue;
+}
+/* icons css*/
+a:hover{
+    color:red;
+    transition-duration: all erase 3s;
+    scale: 1;
+}
+
+/* img css*/
+ .card img:hover{
+    transition-duration: 3s;
+    scale: 1.10;
+    cursor: pointer;
+}
+/* footer*/
+#quick:hover{
+    color:blue;
+    background-color: white;
+}
+#quick{
+    color: black;
+}
+/*footer end*/
+
+#button:hover{
+    background-color: green;
+    color:white;
+    border-radius: white;
+}
